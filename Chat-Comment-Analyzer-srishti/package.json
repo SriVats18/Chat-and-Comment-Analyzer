@@ -1,12 +1,12 @@
 {
-  "name": "your-project-name",
+  "name": "Chat-and-Comment-Analyzer",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview"
   },
-  
+
   "dependencies": {
     "@emailjs/browser": "^4.3.3",
     "emailjs": "^4.0.3"
